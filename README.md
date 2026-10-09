@@ -2,7 +2,7 @@
 
 Web Technologies-1 (Frontend)
 
-Name: Azamat Merzemkhan
+Name: Azamat Merzemkhann
 
 Group: IT-2513
 
