@@ -2,9 +2,9 @@
 
 Web Technologies-1 (Frontend)
 
-Name: [Surname Name]
+Name: Azamat Merzemkhan
 
-Group: [Group]
+Group: IT-2513
 
 ## Files
 
